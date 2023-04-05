@@ -32,4 +32,4 @@ in this format:
       
       Note: Each datasets comprise of 15 genuine and 15 forged signatures. There have been 5 total attempts for each of the 15 genuine and forged signatures.
 
-7. Use the already done template to add the requirements.
+7. Use and modify the already done template to add the requirements - Signature verification using machine learning.ipynb
