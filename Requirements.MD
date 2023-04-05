@@ -25,11 +25,11 @@ in this format:
               
 6. Use the real and forged datasets only(found within this repo) to train and test the models. The format of each image is as follows:
 
-      Images are stored in the format : XXXZZZ_YYY.png
-      XXX denotes id of the person who has signed on the document(eg: 001)
-      ZZZ denotes the id of the person to whom the sign belongs in actual(eg: 001)
-      YYY deontes the n'th no.of attempt
-      
-      Note: Each datasets comprise of 15 genuine and 15 forged signatures. There have been 5 total attempts for each of the 15 genuine and forged signatures.
+        Images are stored in the format : XXXZZZ_YYY.png
+        XXX denotes id of the person who has signed on the document(eg: 001)
+        ZZZ denotes the id of the person to whom the sign belongs in actual(eg: 001)
+        YYY deontes the n'th no.of attempt
+
+        Note: Each datasets comprise of 15 genuine and 15 forged signatures. There have been 5 total attempts for each of the 15 genuine and forged signatures.
 
 7. Use and modify the already done template to add the requirements - Signature verification using machine learning.ipynb
