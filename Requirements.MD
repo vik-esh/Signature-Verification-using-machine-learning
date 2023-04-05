@@ -1,7 +1,7 @@
 Here are my requirements for the project:
 
-1. Use the following mmachine learning algorithms to determine the authenticity of a signature
-                 CNN - SVM - Random Forests
+1. Use the following machine learning algorithms to determine the authenticity of a signature:
+        CNN - SVM - Random Forests
                  
 2. Can use any ADDITIONAL python libraries or modules necessary for the machine learning algo and for feature extractions - but everything should be done in the
 Jupyter Notebook
