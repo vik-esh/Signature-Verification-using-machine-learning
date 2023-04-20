@@ -6,8 +6,7 @@ Here are my requirements for the project:
 2. Can use any ADDITIONAL python libraries or modules necessary for the machine learning algo and for feature extractions - but everything should be done in the
 Jupyter Notebook
 
-3. Add comments to the code. for e.g: where the algorith mmodels are initiated with how many neurons/networks and where the accuracies of results
-are determined and saved etc. Important: add comments where evaluation metrics are used like precision, recall, accuracy and f1 score.
+3. Add comments to the codes with appropriate cell headings(markdown). for e.g: where the algorithm models are initiated with how many neurons/networks and where the accuracies of results are determined and saved etc. Important: add comments where evaluation metrics are used like precision, recall, accuracy and f1 score.
 
 4. After authenticating a signature, create a Results folder, containing a CSV file(ComparingModels.CSV) to compare each models accuracies. It should contains values 
 in this format:
